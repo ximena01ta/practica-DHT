@@ -45,11 +45,15 @@ void loop() {
 ![](    ) 
 5. Para colocar el sensor nos iremos a la parte de ``Simulation`` en la opción de ``+`` y buscar:
 - DHT22
+
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20231406.png) 
+
 6. Se hace la conexión del ESP32 con el DHT22 (pines con la tarjeta)
+
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20202932.png)
 
 8. Iniciamos la simulación con el botón ``play`` y empezará a darnos los lectores del sensor.
+
 ![](    ) 
 
 ## Resultados
