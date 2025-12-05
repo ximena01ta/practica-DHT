@@ -53,3 +53,4 @@ void loop() {
 
 ## Resultados
 Obtenemos los resultados de humedad y temperatura.
+![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20202856.png)
