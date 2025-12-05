@@ -11,7 +11,7 @@ Simulador WOKWI (https://wokwi.com) :
 ## Procedimiento 
 1. En el buscador ingresar la página https://wokwi.com
 
-![]()
+![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-05%20010958.png)
 
 3. Seleccionar la opción ``ESP32`` en ambos casos
 
