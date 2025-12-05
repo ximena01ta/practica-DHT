@@ -20,7 +20,7 @@ Simulador WOKWI (https://wokwi.com) :
 
 Nos llevará a la siguiente página:
 
-![]()
+![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-05%20010757.png)
 
 4. En la parte de ``sketch.ino`` nos muestra el código anterior que debemos borrar para colocar el nuevo a continuación:
 ````#include "DHTesp.h" 
@@ -54,6 +54,7 @@ void loop() {
 
 5. Para colocar el sensor nos iremos a la parte de ``Simulation`` en la opción de ``+`` y buscar:
 - DHT22
+
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20230350.png) 
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20231406.png) 
 
