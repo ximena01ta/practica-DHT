@@ -42,14 +42,15 @@ void loop() {
 ````
 4. En ``Library Manager`` vamos a buscar en la opción de ``+`` la siguiente biblioteca:
 - DHT sensor library for ESPx
-
+![](    ) 
 5. Para colocar el sensor nos iremos a la parte de ``Simulation`` en la opción de ``+`` y buscar:
 - DHT22
-
+![](    ) 
 6. Se hace la conexión del ESP32 con el DHT22 (pines con la tarjeta)
+![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20202932.png)
 
-7. Iniciamos la simulación con el botón ``play`` y empezará a darnos los lectores del sensor.
-
+8. Iniciamos la simulación con el botón ``play`` y empezará a darnos los lectores del sensor.
+![](    ) 
 
 ## Resultados
 Obtenemos los resultados de humedad y temperatura.
