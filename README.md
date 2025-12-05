@@ -1,7 +1,6 @@
 # REPORTE DEL SENSOR DHT22 CON TARJETA ESP32
 ## Introducción
-En esta práctica se usará el sensor 
-
+En esta práctica se aprendera a usar el sensor DHT22 y una tarjeta ESP32 para sacar datos de humedad y temperatura todo esto mediante un simulador.
 
 ## Materiales
 Simulador WOKWI (https://wokwi.com) :
@@ -13,16 +12,16 @@ Simulador WOKWI (https://wokwi.com) :
 
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-05%20010958.png)
 
-3. Seleccionar la opción ``ESP32`` en ambos casos
+2. Seleccionar la opción ``ESP32`` en ambos casos
 
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-05%20011019.png)
-![]()
+![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-05%20011217.png)
 
 Nos llevará a la siguiente página:
 
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-05%20010757.png)
 
-4. En la parte de ``sketch.ino`` nos muestra el código anterior que debemos borrar para colocar el nuevo a continuación:
+3. En la parte de ``sketch.ino`` nos muestra el código anterior que debemos borrar para colocar el nuevo a continuación:
 ````#include "DHTesp.h" 
 
 const int DHT_PIN = 15;
@@ -62,7 +61,7 @@ void loop() {
 
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20202932.png)
 
-8. Iniciamos la simulación con el botón ``play (|>)`` y empezará a darnos los lectores del sensor. 
+7. Iniciamos la simulación con el botón ``play (|>)`` y empezará a darnos los lectores del sensor. 
 
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20230350.png) 
 ![](https://github.com/ximena01ta/practica-DHT/blob/main/Captura%20de%20pantalla%202025-12-04%20202856.png)
